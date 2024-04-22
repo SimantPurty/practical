@@ -1,2 +1,2 @@
-print("My Name is Simant")
+print("My Name is Simant Purty")
 
